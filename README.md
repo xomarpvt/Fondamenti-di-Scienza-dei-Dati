@@ -3,6 +3,7 @@ Progetto di Fondamenti di Scienza dei Dati - *Paviotti Omar*
 
 I file contenuti nella repository sono:
 - *.gitignore*: specifica i file "untracked".
+- *LICENSE*: licenza MIT.
 - *Gare.pickle*: dataset in formato pickle contenente la lista delle gare.
 - *Partenze.pickle*: dataset in formato pickle contenente la lista delle informazioni sulle partenze delle gare precedentemente ottenute.
 - *Grafico_Classifica_Partenze.py*: terzo grafico (interattivo) della seconda parte di analisi.
